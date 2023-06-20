@@ -16,7 +16,7 @@ source <(curl -sL https://docker-install.netlify.app/install.sh) -s
 
 ## Install/Update docker offline
 ```
-./install.sh -f /root/docker-18.09.6.tgz
+./install.sh -f /root/docker-20.10.6.tgz
 ```
 bash-completion file **docker.bash** should put same directory with install.sh  
 offline file: https://download.docker.com/linux/static/stable/
